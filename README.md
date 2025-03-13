@@ -119,7 +119,7 @@ Use the command `info files` to get the starting and ending addreses of .rodata
 
 ![infoFiles1](https://github.com/user-attachments/assets/22c6e1a3-9663-4dc1-bf23-469027c547b2)
 
-Start address is 0x0000000000002000 for .rodata, but the the encoded flag doesn't start being used until the address 0x0000000000002000 as we see in ghidra
+Start address is 0x0000000000002000 for .rodata, but the the encoded flag doesn't start being used until the address 0x0000000000002020 as we see in ghidra
 
 ![assembly3](https://github.com/user-attachments/assets/6ddd5c3c-6597-4b2c-9142-de96377cac47)
 
