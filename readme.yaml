@@ -1,0 +1,9 @@
+name: "Onion"
+category: "Reverse Engineering"
+Author: "maria"
+Flag_Format:"microCTF{}"
+Level: "Beginner" 
+description: |
+    A sus corrupted file is given to you , your job is to recover the file , understand how the binary works , and then finaly 
+    find the correct flag ... 
+
